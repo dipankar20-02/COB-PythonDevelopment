@@ -1,11 +1,6 @@
 This is a text file containing more text for testing purposes. It includes sentences with various words and punctuation marks, such as commas, periods, and question marks.
 
-Python is a popular programming language that is used for a wide range of applications, including web development, data analysis, and machine learning. It is known for its simplicity and readability.
-
-In Python, you can create functions, classes, and modules to organize your code. Functions allow you to encapsulate a set of instructions into a reusable block of code, while classes provide a blueprint for creating objects with specific attributes and methods.
-
 Here are some sample sentences with unique words:
 - The quick brown fox jumps over the lazy dog.
-- Programming languages like Python and Java are widely used in industry.
-- Data scientists use Python libraries such as NumPy and Pandas for data analysis.
-- Have you ever tried coding in Python? It's fun and easy to learn!
+-Jack quickly enjoyed a big, warm cup of hot cocoa while watching the mesmerizing sunset. The vivid colors painted across the sky filled him with awe. Buzzing bees danced around vibrant flowers, creating a lively atmosphere. Felix, a quirky inventor, worked diligently in his cozy workshop, crafting zany gadgets with precision and care. Meanwhile, Olivia, a graceful ballerina, pirouetted gracefully on the stage, showcasing her exceptional talent. The juxtaposition of these diverse scenes created a tapestry of life's rich experiences.
+HELLO, How are you?

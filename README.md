@@ -2,9 +2,9 @@
 
 Greetings, and welcome to my COB Python Development portfolio! Within this repository, you'll discover an assortment of Python projects and code samples showcasing my proficiency and hands-on experience during my internship at Codes On Bytes. Feel at liberty to delve into the projects, peruse the code, and uncover the Python scripts I've diligently crafted throughout my internship journey.
 
-##Project List
+## Project List
 
-###Phase 1
+### Phase 1
 
 #### Task 1
 1. **Word Occurrence Counter**

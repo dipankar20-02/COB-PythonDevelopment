@@ -9,12 +9,24 @@ Greetings, and welcome to my COB Python Development portfolio! Within this repos
 #### Task 1
 1. **Word Occurrence Counter**
    - **Description**: I have curated a directory named 'Word Occurrence Counter' to demonstrate the skills I employed on this project. I encourage you to take a look at it for reference.
-   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/115024cb-bcb7-4990-801a-507256e2c3d1)
+   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/9bd4c2a7-6c5c-48be-a85d-417bb5456a48)
 #### Task 2
 2. **Weather App**
    - **Description**: Discover the Weather Forecast Application: Obtain a user-friendly 5-day weather forecast for cities worldwide, complete with intuitive graphical icons.
    - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/73ed3a71-efed-4bb5-8604-e2a3fe507a69)
-<!-- Add more projects as needed -->
+
+### Phase 2
+
+#### Task 1
+3. **Expense Tracker**
+   - **Description**: Experience the simplicity and efficiency of this lightweight Python application designed for tracking daily expenses. Easily record, view, and manage your spending with this intuitive expense tracker. Take charge of your finances and stay informed about your day-to-day transactions.
+
+   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/9bd4c2a7-6c5c-48be-a85d-417bb5456a48)
+#### Task 2
+4. **Chat Application**
+   - **Description**: The Chat Application is a user-friendly Python-based chat client that facilitates connections to chat servers for real-time messaging. This program features a graphical user interface (GUI) built with the Tkinter library, ensuring ease of use and accessibility.
+     
+   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/d7a85ff7-68ea-4c51-8809-c5e658ed416d)
 
 ## About Me
 

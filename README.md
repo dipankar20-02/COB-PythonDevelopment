@@ -21,12 +21,12 @@ Greetings, and welcome to my COB Python Development portfolio! Within this repos
 3. **Expense Tracker**
    - **Description**: Experience the simplicity and efficiency of this lightweight Python application designed for tracking daily expenses. Easily record, view, and manage your spending with this intuitive expense tracker. Take charge of your finances and stay informed about your day-to-day transactions.
 
-   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/9bd4c2a7-6c5c-48be-a85d-417bb5456a48)
+   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/tree/1492bb70de60a7b9441a27f09b6b078061816aa8/Task%201%20-EXPENSE%20TRACKER)
 #### Task 2
 4. **Chat Application**
    - **Description**: The Chat Application is a user-friendly Python-based chat client that facilitates connections to chat servers for real-time messaging. This program features a graphical user interface (GUI) built with the Tkinter library, ensuring ease of use and accessibility.
      
-   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/assets/131452694/d7a85ff7-68ea-4c51-8809-c5e658ed416d)
+   - [**Demo**](https://github.com/dipankar20-02/COB-PythonDevelopment/tree/1492bb70de60a7b9441a27f09b6b078061816aa8/Task%202-%20Chat%20App)
 
 ## About Me
 
